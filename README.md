@@ -30,6 +30,32 @@
     * 原子核物理子级02
 1. 计算科学
    1. 计算机基本构成
-    * CPU概述
-    * 内存管理系统
-2.  网络构成
+     * CPU概述
+     * 内存管理系统
+   2.  网络构成
+> 一级引用一段内容
+>> 二级引用
+>>>  三级引用
+
+[GitHub](http://github.com "点击跳转到github")
+![自定义图片](C://Users//cui88//Desktop//xxx.jpg)
+
+```c
+       #include <stdio.h>
+       int main(void)
+       {
+            printf("hi c ..\n");
+	    return 0;
+       }  
+```
+```python
+         inport os
+```
+```bash
+        sudo apt-get install tree
+```
+
+游戏名|游戏价格|游戏排行
+--|:--|--:
+赛博朋克2077|9|9999
+PUBG|8|9998
